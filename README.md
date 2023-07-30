@@ -61,10 +61,10 @@ My dream was to become a Football player
 
 ###  _Can you help me reach my goal?_ REACH OUT ME! 
 
-<a href="https://www.instagram.com/ramtahermez/">
+<a href="https://www.instagram.com/ramtahermez/" target="_blank">
   <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png"/>
 </a>
-<a href="https://www.linkedin.com/in/ramta-napoleon-hermez-28738b239/">
+<a href="https://www.linkedin.com/in/ramta-napoleon-hermez-28738b239/" target="_blank">
   <img height="100" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"/>
 </a>
 <a href="mailto:ramta97@hotmail.com">
