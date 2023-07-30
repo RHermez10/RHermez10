@@ -16,7 +16,7 @@ Hobbies: [coding, football, music, traveling, reading, cooking],
 spoken_languages: [english, swedish, assyrian, arabic]
 recent_education: {
         school: "NBI/Handelsakademin",
-        program: "Frontend Developer",
+        course: "Frontend Developer",
     }
 ```
   
