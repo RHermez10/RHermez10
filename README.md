@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1>HELLO THERE</h1>
   <img src="https://github.com/RHermez10/RHermez10/assets/91664648/9d94d5cd-cf55-4b34-9b5a-806b38b6cb5a" width="250"/>
-  <h3>My name is Ramta Napoleon Hermez </h3>
+  <h3>My name is Ramta Hermez </h3>
   <h4>I am a passionate and driven individual with a love for creativity and problem-solving.
     With a background in technology and a curious mind, I am constantly exploring new ideas and learning from every experience. As an enthusiastic team player, I thrive in collaborative environments and enjoy bringing out the best in others. Whether it's in the world of design, innovation, or any challenge that comes my way, I embrace opportunities to grow and make a positive impact. </h4> 
 </div>
