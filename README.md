@@ -1,47 +1,36 @@
-# Hi, I'm Ramta Hermez 👋
+# Hi, I’m Ramta 👋
 
-💻 Frontend Developer | 🌍 Open to Remote Opportunities  
+I’m currently studying Software Testing with Automation and working towards starting my career in software testing and QA.
 
-I’m a frontend developer passionate about building **responsive, user-friendly web applications**.  
-I enjoy turning ideas into clean, functional interfaces using modern web technologies.
+I have a background in frontend development, with experience building web applications using JavaScript, TypeScript, and React. My development background has given me a good understanding of how web applications are built, debugged, and improved.
 
----
+I’m currently developing my skills in software testing, test automation, and quality assurance, while continuing to build on my frontend knowledge.
 
-## 🚀 About Me
-- 🌱 Currently improving my skills in **React and modern frontend development**
-- 💡 Strong focus on **user experience and accessibility**
-- 🧩 Background in **customer-focused roles**, bringing strong problem-solving and attention to detail
-- 🤝 Comfortable working in **remote and collaborative environments**
+##🧪 Currently Learning
 
----
+* Software Testing
+* Manual Testing
+* Test Case Design
+* Functional Testing
+* Bug Reporting
+* Test Automation
 
-## 🛠 Tech Stack
-- HTML, CSS, JavaScript  
-- React  
-- Responsive Design  
-- Git & GitHub  
+##💻 Technical Background
 
----
+* JavaScript
+* TypeScript
+* React
+* HTML & CSS
+* Git & GitHub
+* Jira
 
-## 📂 Work
+##🚀 Projects
 
-### 🔹 ETC Cleaning AB Website
-Frontend website built for a cleaning service company.
+My repositories include projects from my frontend development studies and personal work. I’m also building new projects focused on software testing and test automation as I progress through my studies.
 
-- Built with **HTML, CSS, JavaScript**
-- Focused on **responsive design and usability**
-- Clean and modern UI
+##📫 Connect With Me
 
-👉 https://www.etc-cleaning.se/ 
-
----
-
-## 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/ramta-hermez-28738b239/
-- Email: ramta97@hotmail.com
-
----
-
-⭐️ Feel free to check out my projects and connect!
+* LinkedIn: LinkedIn
+* Portfolio: ramtahermez.com
 
 
