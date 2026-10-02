@@ -6,7 +6,7 @@ I have a background in frontend development, with experience building web applic
 
 I’m currently developing my skills in software testing, test automation, and quality assurance, while continuing to build on my frontend knowledge.
 
-##🧪 Currently Learning
+## 🧪 Currently Learning
 
 * Software Testing
 * Manual Testing
@@ -15,7 +15,7 @@ I’m currently developing my skills in software testing, test automation, and q
 * Bug Reporting
 * Test Automation
 
-##💻 Technical Background
+## 💻 Technical Background
 
 * JavaScript
 * TypeScript
@@ -24,11 +24,11 @@ I’m currently developing my skills in software testing, test automation, and q
 * Git & GitHub
 * Jira
 
-##🚀 Projects
+## 🚀 Projects
 
 My repositories include projects from my frontend development studies and personal work. I’m also building new projects focused on software testing and test automation as I progress through my studies.
 
-##📫 Connect With Me
+## 📫 Connect With Me
 
 * LinkedIn: LinkedIn
 * Portfolio: ramtahermez.com
